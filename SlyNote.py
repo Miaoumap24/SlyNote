@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Lixiod Technologies
+
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox, font as tkfont
